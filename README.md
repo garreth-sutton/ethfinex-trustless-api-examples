@@ -16,7 +16,7 @@ Setup:
  - configure the file [keys_example.js](examples/keys_example.js) - the instructions are contained
    inside the file
 
-Once setup you can run any example in node e.g. by using the command `node placeOrder.js`
+Once setup you can run any example in node e.g. by using the command `node examples\placeOrder.js`
 
 Apart from the dependency on the `key.js` file and essential crypto libraries, all examples are self-contained; each file contains all the code required to perform its function.
 
