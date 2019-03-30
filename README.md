@@ -6,6 +6,7 @@ This repository contains examples on how to perform the following tasks:
  - Get a list of historic orders
  - Place an order
  - Cancel an order
+ [a relative link](examples/config.js)
 
 I have tried to keep the examples as simple as possible, while adding plenty of comments to help in their understanding.
 
